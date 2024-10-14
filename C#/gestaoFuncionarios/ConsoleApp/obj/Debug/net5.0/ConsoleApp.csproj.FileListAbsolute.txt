@@ -1,0 +1,16 @@
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Tiago Vieira\Downloads\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "82m0TQdguWh2wktYri0N5PBROaNqphXs11gWaYoUR3N9RnLXWFrz3FE6epO74Z3Gvy6l8ZX5gQ8YgtqaUm95yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiago\\Downloads\\IPCA\\1º Ano\\1º Ano\\1º Ano\\Projetos\\gestao_livraria\\gestao_livraria\\gestao_livraria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

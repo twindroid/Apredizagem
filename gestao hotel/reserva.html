@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      // Um array para armazenar todas as reservas
+      let reservations = [];
+
+      function makeReservation() {
+        // Obtém os valores dos campos de formulário
+        let date = document.getElementById("date").value;
+        let time = document.getElementById("time").value;
+
+        // Adiciona a nova reserva ao array
+        reservations.push({ date, time });
+
+        // Atualiza a lista de reservas na página
+        updateReservationsList();
+      }
+
+      function updateReservationsList() {
+        // Obtém o elemento da lista de reservas
+        let reservationsList = document.getElementById("reservations-list");
+
+        // Limpa a lista de reservas antiga
+        reservationsList.innerHTML = "";
+
+        // Adiciona todas as reservas ao HTML da lista
+        for (let i = 0; i < reservations.length; i++) {
+          let reservation = reservations[i];
+          reservationsList.innerHTML += "<li>" + reservation.date + " at " + reservation.time + "</li>";
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Reservations</h1>
+    <form>
+      Date: <input type="text" id="date">
+      Time: <input type="text" id="time">
+      <input type="button" value="Make Reservation" onclick="makeReservation()">
+    </form>
+    <h2>Reservations List</h2>
+    <ul id="reservations-list"></ul>
+  </body>
+</html>

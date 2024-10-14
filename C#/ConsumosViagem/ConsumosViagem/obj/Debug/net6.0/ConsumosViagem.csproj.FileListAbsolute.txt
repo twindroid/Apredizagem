@@ -1,0 +1,15 @@
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\bin\Debug\net6.0\ConsumosViagem.exe
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\bin\Debug\net6.0\ConsumosViagem.deps.json
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\bin\Debug\net6.0\ConsumosViagem.runtimeconfig.json
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\bin\Debug\net6.0\ConsumosViagem.dll
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\bin\Debug\net6.0\ConsumosViagem.pdb
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.csproj.AssemblyReference.cache
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.AssemblyInfoInputs.cache
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.AssemblyInfo.cs
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.csproj.CoreCompileInputs.cache
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.dll
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\refint\ConsumosViagem.dll
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.pdb
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ConsumosViagem.genruntimeconfig.cache
+C:\Users\Tiago Vieira\Desktop\ConsumosViagem\ConsumosViagem\obj\Debug\net6.0\ref\ConsumosViagem.dll
